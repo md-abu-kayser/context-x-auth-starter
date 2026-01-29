@@ -28,6 +28,16 @@ git clone https://github.com/md-abu-kayser/context-x-auth-starter.git
 cd context-x-auth-starter
 ```
 
+2. **Install dependencies:**
+
+```bash
+npm install
+# or
+pnpm install
+# or
+yarn
+```
+
 ## Authentication Flow
 
 - **Register:** Create a new account with email and password.
