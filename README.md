@@ -97,20 +97,16 @@ The license may be modified for client or proprietary projects as required.
 
 ---
 
-### Contact and Maintainer
+## Contact & Maintainer
 
-- **_Name:_** Md Abu Kayser - Full-Stack Engineer
-- **_Project:_** _context-x-auth-starter_
-- **_Maintainer:_** [md-abu-kayser](https://github.com/md-abu-kayser)
-- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
-- **_Email:_** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+**Md Abu Kayser** - Frontend / Full-Stack Web Developer
 
-If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+- **Project:** Context-X - context-x-auth-starter
+- **GitHub:** https://github.com/md-abu-kayser
+- **Email:** abu.kayser.official@gmail.com
 
 ---
 
-It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect portfolio showcases, or professional demos.
-
-- **Thank you for reviewing this project!**
+**For collaboration, interviews, or client-related inquiries, feel free to reach out via GitHub or email.**
 
 ---
