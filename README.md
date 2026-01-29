@@ -18,11 +18,14 @@ Seamlessly manage user authentication, protected routes, and beautiful UI - all 
 
 ## Getting Started
 
-1. Clone the Repository
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/md-abu-kayser/context-x-auth-starter.git
+```
 
+```bash
+cd context-x-auth-starter
 ```
 
 ## Authentication Flow
