@@ -90,10 +90,10 @@ pnpm dev
 - TypeScript
 - ESLint and Prettier
 
-### License
+## License
 
-- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
-- You may replace or update the license as needed for client or proprietary projects.
+This project is licensed under the terms of the **MIT License**.
+The license may be modified for client or proprietary projects as required.
 
 ---
 
