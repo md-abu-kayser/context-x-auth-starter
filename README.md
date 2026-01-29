@@ -38,6 +38,14 @@ pnpm install
 yarn
 ```
 
+3. **Run locally:**
+
+```bash
+npm run dev
+# or
+pnpm dev
+```
+
 ## Authentication Flow
 
 - **Register:** Create a new account with email and password.
