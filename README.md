@@ -38,7 +38,7 @@
 
 [![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)](https://vite.dev/)
 
-## Plain docs links (use these in a README “Docs & links” section)
+## Plain docs links
 
 - HTML (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/HTML
 - CSS (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/CSS
