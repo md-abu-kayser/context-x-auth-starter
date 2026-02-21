@@ -1,33 +1,19 @@
 # Context-X - Advanced React and Firebase Auth Starter
 
-<!-- Linting & Formatting -->
+<!-- MIT License -->
 
-[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
-[![Prettier](https://img.shields.io/badge/Prettier-2B3A42?logo=prettier&logoColor=white)](https://prettier.io/docs/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
+<!-- HTML & CSS -->
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 <!-- Styling / PostCSS -->
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs/)
 [![PostCSS](https://img.shields.io/badge/PostCSS-efefef?logo=postcss&logoColor=black)](https://postcss.org/)
-
-<!-- Bundler / Dev tooling -->
-
-[![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)](https://vite.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-
-<!-- Language -->
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
-
-<!-- Plain links -->
-
-- ESLint docs: https://eslint.org/docs/latest/
-- Prettier docs: https://prettier.io/docs/
-- Tailwind CSS docs: https://tailwindcss.com/docs/
-- PostCSS docs / postcss.config: https://postcss.org/ (see also Tailwind PostCSS install guide)
-- Vite docs: https://vite.dev/
-- Node.js docs: https://nodejs.org/
-- TypeScript docs: https://www.typescriptlang.org/docs/
+[![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?logo=tailwindcss&logoColor=white)](https://daisyui.com/)
 
 ---
 
