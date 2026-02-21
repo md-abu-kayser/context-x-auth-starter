@@ -1,13 +1,21 @@
 # Context-X - Advanced React and Firebase Auth Starter
 
+<!-- html & css -->
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 <!-- Infra & Runtime -->
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://expressjs.com/)
 
-<!-- Language -->
+<!-- Languages & Web Standards -->
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/doc/)
 
 <!-- Databases -->
 
@@ -103,54 +111,61 @@
 
 ## Plain docs links (use these in a README “Docs & links” section)
 
-- Node.js — https://nodejs.org/
-- Express — https://expressjs.com/
+- HTML (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/HTML
+- CSS (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/CSS
+- Node.js docs: https://nodejs.org/
+- Express docs: https://expressjs.com/
+- JavaScript (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- ECMAScript (spec, ECMA-262) docs: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 - TypeScript docs: https://www.typescriptlang.org/docs/
-- PostgreSQL — https://www.postgresql.org/
-- MySQL — https://dev.mysql.com/
-- MongoDB — https://www.mongodb.com/
-- Redis — https://redis.io/
-- Prisma — https://www.prisma.io/
-- Sequelize — https://sequelize.org/
-- TypeORM — https://typeorm.io/
-- Mongoose — https://mongoosejs.com/
-- Docker — https://www.docker.com/
-- Docker Compose — https://docs.docker.com/compose/
-- Kubernetes — https://kubernetes.io/
-- Nginx — https://nginx.org/
-- PM2 — https://pm2.keymetrics.io/
-- Passport.js — http://www.passportjs.org/
-- Auth0 — https://auth0.com/
-- GraphQL — https://graphql.org/
-- Apollo — https://www.apollographql.com/
-- Swagger / OpenAPI — https://swagger.io/
-- Postman — https://www.postman.com/
-- GitHub — https://github.com/
-- GitLab — https://gitlab.com/
-- GitHub Actions — https://docs.github.com/actions
-- Jest — https://jestjs.io/
-- Vitest — https://vitest.dev/
-- SuperTest — https://github.com/visionmedia/supertest
-- Cypress — https://www.cypress.io/
-- Playwright — https://playwright.dev/
-- AWS — https://aws.amazon.com/
-- Google Cloud — https://cloud.google.com/
-- DigitalOcean — https://www.digitalocean.com/
-- Sentry — https://sentry.io/
-- Prometheus — https://prometheus.io/
-- Grafana — https://grafana.com/
-- Elasticsearch — https://www.elastic.co/elasticsearch/
-- RabbitMQ — https://www.rabbitmq.com/
-- Apache Kafka — https://kafka.apache.org/
-- SendGrid — https://sendgrid.com/
-- Mailgun — https://www.mailgun.com/
-- Cloudflare — https://www.cloudflare.com/
-- dotenv — https://github.com/motdotla/dotenv
+- Go (Golang) docs: https://go.dev/doc/
+- PostgreSQL docs: https://www.postgresql.org/
+- MySQL docs: https://dev.mysql.com/
+- MongoDB docs: https://www.mongodb.com/
+- Redis docs: https://redis.io/
+- Prisma docs: https://www.prisma.io/
+- Sequelize docs: https://sequelize.org/
+- TypeORM docs: https://typeorm.io/
+- Mongoose docs: https://mongoosejs.com/
+- Docker docs: https://www.docker.com/
+- Docker Compose docs: https://docs.docker.com/compose/
+- Kubernetes docs: https://kubernetes.io/
+- Nginx docs: https://nginx.org/
+- PM2 docs: https://pm2.keymetrics.io/
+- Passport.js docs: http://www.passportjs.org/
+- Auth0 docs: https://auth0.com/
+- GraphQL docs: https://graphql.org/
+- Apollo docs: https://www.apollographql.com/
+- Swagger / OpenAPI docs: https://swagger.io/
+- Postman docs: https://www.postman.com/
+- GitHub docs: https://github.com/
+- GitLab docs: https://gitlab.com/
+- GitHub Actions docs: https://docs.github.com/actions
+- Jest docs: https://jestjs.io/
+- Vitest docs: https://vitest.dev/
+- SuperTest docs: https://github.com/visionmedia/supertest
+- Cypress docs: https://www.cypress.io/
+- Playwright docs: https://playwright.dev/
+- AWS docs: https://aws.amazon.com/
+- Google Cloud docs: https://cloud.google.com/
+- DigitalOcean docs: https://www.digitalocean.com/
+- Sentry docs: https://sentry.io/
+- Prometheus docs: https://prometheus.io/
+- Grafana docs: https://grafana.com/
+- Elasticsearch docs : https://www.elastic.co/elasticsearch/
+- RabbitMQ docs: https://www.rabbitmq.com/
+- Apache Kafka docs: https://kafka.apache.org/
+- SendGrid docs: https://sendgrid.com/
+- Mailgun docs: https://www.mailgun.com/
+- Cloudflare docs: https://www.cloudflare.com/
+- dotenv docs: https://github.com/motdotla/dotenv
 - ESLint docs: https://eslint.org/docs/latest/
 - Prettier docs: https://prettier.io/docs/
 - Tailwind CSS docs: https://tailwindcss.com/docs/
 - PostCSS docs / postcss.config: https://postcss.org/ (see also Tailwind PostCSS install guide)
 - Vite docs: https://vite.dev/
+
+---
 
 A modern, production-ready authentication starter built with **React**, **Vite**, **Firebase Authentication**, **Tailwind CSS**, and **DaisyUI**.  
 Seamlessly manage user authentication, protected routes, and beautiful UI - all with best practices and extensibility in mind.
