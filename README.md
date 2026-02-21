@@ -1,5 +1,34 @@
 # Context-X - Advanced React and Firebase Auth Starter
 
+<!-- Linting & Formatting -->
+
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
+[![Prettier](https://img.shields.io/badge/Prettier-2B3A42?logo=prettier&logoColor=white)](https://prettier.io/docs/)
+
+<!-- Styling / PostCSS -->
+
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs/)
+[![PostCSS](https://img.shields.io/badge/PostCSS-efefef?logo=postcss&logoColor=black)](https://postcss.org/)
+
+<!-- Bundler / Dev tooling -->
+
+[![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)](https://vite.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+
+<!-- Language -->
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+
+<!-- Plain links (if you prefer link list) -->
+
+- ESLint docs: https://eslint.org/docs/latest/
+- Prettier docs: https://prettier.io/docs/
+- Tailwind CSS docs: https://tailwindcss.com/docs/
+- PostCSS docs / postcss.config: https://postcss.org/ (see also Tailwind PostCSS install guide)
+- Vite docs: https://vite.dev/
+- Node.js docs: https://nodejs.org/
+- TypeScript docs: https://www.typescriptlang.org/docs/
+
 A modern, production-ready authentication starter built with **React**, **Vite**, **Firebase Authentication**, **Tailwind CSS**, and **DaisyUI**.  
 Seamlessly manage user authentication, protected routes, and beautiful UI - all with best practices and extensibility in mind.
 
